@@ -33,7 +33,7 @@ img{
 #submenu>li{
 	list-style: none;
 	clear: left;
-	margin-left: 10px;
+	padding-left: 10px;
 	border-bottom: solid 1px #78b43d;	
 }
 
