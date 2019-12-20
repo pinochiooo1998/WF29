@@ -65,7 +65,10 @@ img{
 .bars{
 	padding-right: 5px;
 }
-
+#menutop>ul>li:hover{
+	background-color: #68c23e;}
+#menutop>ul>li:hover a{
+	color: black;}
 
 
 
