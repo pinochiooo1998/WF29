@@ -85,4 +85,7 @@ img{
 #submenu1>li:hover{
 	background-color: #68c23e;
 }
-
+#menutop>ul>li:hover{
+	background-color: #68c23e;}
+#menutop>ul>li:hover a{
+	color: black;}
