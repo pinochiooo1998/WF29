@@ -67,6 +67,8 @@ img{
 }
 #menutop>ul>li:hover{
 	background-color: #68c23e;}
+#submenu>li:hover a{
+	color: white!important;}
 #menutop>ul>li:hover a{
 	color: black;}
 
